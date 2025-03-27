@@ -28,7 +28,7 @@ The Power BI Sales Dashboard is designed to help businesses analyze their sales 
 Every business has a story, and our sales data narrates a compelling one. 
 - **The Rise (2017-2018):** A period of steady growth, fueled by increasing market demand and customer engagement.
 - **The Peak (2018):** Sales reached an all-time high, with significant contributions from e-commerce and key metropolitan markets.
--- **The Fall (2019-2020): A decline in revenue and profit hinted at possible challenges—shifting customer preferences, increasing competition, economic downturns, or the impact of the COVID-19 pandemic, which disrupted supply chains, reduced consumer spending, and affected overall business operations.
+- **The Fall (2019-2020):** A decline in revenue and profit hinted at possible challenges—shifting customer preferences, increasing competition, economic downturns, or the impact of the COVID-19 pandemic, which disrupted supply chains, reduced consumer spending, and affected overall business operations.
 - **E-commerce Dominance:** With 75.63% of revenue coming from online sales, it’s evident that digital transformation played a crucial role in business expansion.
 - **Regional Powerhouses:** Delhi NCR and Mumbai remained the strongest revenue-generating markets, proving their strategic importance.
 - **Lessons for the Future:** Data indicates a need for better forecasting models and adaptive strategies to counter revenue fluctuations and optimize product offerings.
