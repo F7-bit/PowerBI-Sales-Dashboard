@@ -6,6 +6,10 @@ This repository contains a **Power BI Sales Analysis Dashboard**, providing insi
 ### 📊 Project Overview
 The Power BI Sales Dashboard is designed to help businesses analyze their sales performance effectively. It provides a comprehensive view of revenue, profit, and customer segmentation to aid strategic decision-making. The dashboard leverages historical sales data to highlight trends, identify profitable markets, and optimize business operations.
 
+## Dashboard
+
+<img src="Sales Analysis Dashboard.png"/>&nbsp;
+
 ## 🔥 Key Features
 - 📈 **Sales Trends Analysis** – Track revenue and profit across different time periods.
 - 💰 **Profit Distribution by Market** – Identify the most and least profitable regions.
