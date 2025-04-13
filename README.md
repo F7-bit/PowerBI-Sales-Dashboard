@@ -8,7 +8,7 @@ The Power BI Sales Dashboard is designed to help businesses analyze their sales 
 
 ## 📟 Dashboard Preview
 
-<img src="Dashboard/Sales Analysis Dashboard.png"/>&nbsp;
+<img src="Dashboard Images/Sales Analysis Dashboard.png"/>&nbsp;
 
 ## 🔥 Key Features
 - 📈 **Sales Trends Analysis** – Track revenue and profit across different time periods.
